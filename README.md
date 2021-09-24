@@ -1,6 +1,7 @@
 # morphdb-si
 
 Contains a `.json` <br>
+Extacted using a Fasttext-300 model released by Facebook.<br>
 Ex:<br>
 ```
   "යටත්විජිතයන්හි": [
