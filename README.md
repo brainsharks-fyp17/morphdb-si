@@ -33,4 +33,4 @@ Ex:<br>
   ],
   ```
   <br>
-312,397 words
+This dataset contains 312,397 keys and their morphological forms
