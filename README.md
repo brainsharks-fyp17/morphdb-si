@@ -1,7 +1,8 @@
 # morphdb-si
 
-Contains a `.json` <br>
+Morpological variants for Sinhala words<br>
 Extacted from a FastText-300 model released by Facebook.<br>
+Contains a `.json` <br>
 Ex:<br>
 ```
   "යටත්විජිතයන්හි": [
