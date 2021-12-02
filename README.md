@@ -1,7 +1,7 @@
 # morphdb-si
 
 Morpological variants of Sinhala words.<br>
-Extacted from a FastText-300 model released by Facebook.<br>
+Extacted from a FastText-300 model released by Facebook [https://fasttext.cc/](https://fasttext.cc/).<br>
 Contains a `.json` <br>
 Ex:<br>
 ```
